@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "474807046663",
+    "firebase_url": "https://misfotografias-36428.firebaseio.com",
+    "project_id": "misfotografias-36428",
+    "storage_bucket": "misfotografias-36428.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474807046663:android:900c2ea6ec25bd38f550a2",
+        "android_client_info": {
+          "package_name": "mx.com.softwell.misfotografias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474807046663-h5g0jl3qssvfv1luakmoqtsuf3v5j1pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkBwC8gRdkzwgIVS2TnTfa3qo84XA-Mqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474807046663-h5g0jl3qssvfv1luakmoqtsuf3v5j1pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
